@@ -1,0 +1,20 @@
+body {
+  margin: 0;
+  padding: 40px;
+}
+#container {
+  padding: 40px;
+  border: 1px solid black;
+}
+table,
+th,
+tr,
+td {
+  border: 1px solid black;
+  border-collapse: collapse;
+  padding: 30px;
+}
+#pageNumbers {
+  display: flex;
+  margin-top: 20px;
+}
